@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="margin:0;height:100vh;display:flex;justify-content:center;align-items:center;font-family:system-ui;">
+
+<audio autoplay>
+  <source src="steps-and-door.wav" type="audio/wav">
+</audio>
+
+</body>
+</html>
